@@ -27,6 +27,10 @@ The extension uses the Tampermonkey API to inject JavaScript code into the Freel
 3. **Calculates Rating:**  Calculates the project rating using a formula that takes into account the collected data.
 4. **Displays Information:**  Adds the calculated rating, online status, and reviews to the project listing on the page.
 
+### Screenshot
+![image](https://github.com/CodeCouturiers/Freelancehunt-Project-Rating-Enhancer/assets/170822292/7852282d-95c5-4341-ad1f-b68e5a69fa3e)
+
+
 ### Disclaimer
 
 This extension is provided "as is" without warranty of any kind. Use it at your own risk. The extension's functionality may be affected by changes made to the Freelancehunt website. 
